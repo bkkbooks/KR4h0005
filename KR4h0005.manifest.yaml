@@ -1,0 +1,152 @@
+canonical_identifier: bkk:krp/KR4h0005/v1
+canonical_location: https://kanripo.org/bkk/KR4h0005/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 玉臺新詠十卷
+  identifiers:
+    krp: KR4h0005
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR4h
+    tls-internal: swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR4h0005.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR4h0005_001.yaml, hash: 'sha256:c9d2f7836b89f6348ceb874278f8360276eb6c8a499c00c019d9b57909a38dc4'}
+  - {seq: 2, filename: KR4h0005_002.yaml, hash: 'sha256:5af003931b7bba40bfca321bee843583d99cc5432a3286ec8da73ab86625517b'}
+  - {seq: 3, filename: KR4h0005_003.yaml, hash: 'sha256:406b88fc7072d0354daec5b2fa9a4aaa7dad68324b2cd7d783d89fbc6ebe16e2'}
+  - {seq: 4, filename: KR4h0005_004.yaml, hash: 'sha256:f6acbb08db986e59d5a67116f4768b1487b9a90b9e2f0827b6694be1e92666ae'}
+  - {seq: 5, filename: KR4h0005_005.yaml, hash: 'sha256:5d5b5d7737afe50bc02662927ca55ce98c379006198abca7257882d32c1f12e8'}
+  - {seq: 6, filename: KR4h0005_006.yaml, hash: 'sha256:3ca606a7ab581582b4c5893710367ce317275aa4357c6dacafc2f1a94b1bcf86'}
+  - {seq: 7, filename: KR4h0005_007.yaml, hash: 'sha256:6bbdd9e1a538e357451ab34e6878669ede8840d9ed0403c77434cbb91f54e049'}
+  - {seq: 8, filename: KR4h0005_008.yaml, hash: 'sha256:088241dfd69a20e88ec634f3cc770ac2d622935064276210369bece63438c143'}
+  - {seq: 9, filename: KR4h0005_009.yaml, hash: 'sha256:9faaf9413fb3df9282758d96df5f41db79fbf69ca6e2c216c81aa681fcba781b'}
+  - {seq: 10, filename: KR4h0005_010.yaml, hash: 'sha256:c37cdb582e6bd229776738bb409d920e29d2e8cc2b952ed0ac4210f2a2b57bd7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4h0005_001.markers.yaml, hash: 'sha256:0ed5cd301e45ecc41e93b569e9e870a2f8e9866b3e6e44037e785a299d1e6561'}
+  - {seq: 2, role: markers, filename: assets/KR4h0005_002.markers.yaml, hash: 'sha256:ed0409472ce81bf8689b733deeb3849029be1dbcca176c5b6be2eb771aad0020'}
+  - {seq: 3, role: markers, filename: assets/KR4h0005_003.markers.yaml, hash: 'sha256:08604ed40ec5b88615930953ca53b436e45911e35bbd14395743a63a8d98576c'}
+  - {seq: 4, role: markers, filename: assets/KR4h0005_004.markers.yaml, hash: 'sha256:0a14ea2b10ebd7a0ede8ff5c216e957eef43954b936e8d8a9db960a8801faad8'}
+  - {seq: 5, role: markers, filename: assets/KR4h0005_005.markers.yaml, hash: 'sha256:1e817ea0e1170d37a8956e4ca0ae61f1bf054cd74918b8dd974ea40ed9bd935b'}
+  - {seq: 6, role: markers, filename: assets/KR4h0005_006.markers.yaml, hash: 'sha256:1cd669b50ff2cce8e02236cfe1d673e8a52e3cf4f8e1878db2c6070a20ff03c7'}
+  - {seq: 7, role: markers, filename: assets/KR4h0005_007.markers.yaml, hash: 'sha256:0b3aa6f45cdd577ab93429f80ddfc51cddbc50f223064e77165a8921e03730c9'}
+  - {seq: 8, role: markers, filename: assets/KR4h0005_008.markers.yaml, hash: 'sha256:6c0c38d478f674717cb50355d2fb9c24c756e15fc58acc45606148c6259669c2'}
+  - {seq: 9, role: markers, filename: assets/KR4h0005_009.markers.yaml, hash: 'sha256:b600887bc711ae4caf0ee5559f4745a8938b0d64689d0a2cbbebf970ea8fc8cb'}
+  - {seq: 10, role: markers, filename: assets/KR4h0005_010.markers.yaml, hash: 'sha256:5667b47a1175a1b8e3f9ae980a06dabe0280a25ee0dc2a826da5a43cfbcda8b8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4h0005_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 5865
+  label: 卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4h0005_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 3969
+  label: 魏文帝
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4h0005_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 3601
+  label: 陸機
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4h0005_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 3958
+  label: 王僧達
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4h0005_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 4680
+  label: 江淹
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4h0005_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 3744
+  label: 吳均
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4h0005_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 5753
+  label: 梁武帝
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4h0005_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 5594
+  label: 蕭子顯
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4h0005_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 9506
+  label: 卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4h0005_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 4274
+  label: 卷第十
+  type: section
+  level: 1
+hash: sha256:f90709fc50677f07aa75f3b05d4cc78c6903b66e00375b26742b54f2a8355d52
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

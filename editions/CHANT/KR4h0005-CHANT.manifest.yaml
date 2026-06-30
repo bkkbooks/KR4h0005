@@ -1,0 +1,143 @@
+canonical_identifier: bkk:krp/KR4h0005/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR4h0005/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉臺新詠十卷
+  identifiers:
+    krp: KR4h0005
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR4h
+    tls-internal: swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR4h0005.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR4h0005_001-CHANT.yaml, hash: 'sha256:cac9f86138db39733e328ce1631279766b8bfbd890fe46c4f0751d1173aa0d88'}
+  - {seq: 2, filename: KR4h0005_002-CHANT.yaml, hash: 'sha256:a82955c00400bb37da109a6a20b397850806b3fa34a7710e3054e5269c3ab60d'}
+  - {seq: 3, filename: KR4h0005_003-CHANT.yaml, hash: 'sha256:6960420c3bc7571d9f5a852a91752547c541af11fa3ed62abf4c4bc3649e8a05'}
+  - {seq: 4, filename: KR4h0005_004-CHANT.yaml, hash: 'sha256:11f9804578e2022fbae699b55d986cdc11c6ecc3a00c352bedbbb910e57540ac'}
+  - {seq: 5, filename: KR4h0005_005-CHANT.yaml, hash: 'sha256:38a3b9ac00264cdedae1ca3400bc360c48a2fc1f82f017934da4880bc508828f'}
+  - {seq: 6, filename: KR4h0005_006-CHANT.yaml, hash: 'sha256:70d842f5303c62742bc00a3e47e7878bdd32078ddf050da5390219ece907c07b'}
+  - {seq: 7, filename: KR4h0005_007-CHANT.yaml, hash: 'sha256:674f3b3b2ad33f42a2dd0331ad0f17ea9bd0200466524117c3d5e0201fd7d972'}
+  - {seq: 8, filename: KR4h0005_008-CHANT.yaml, hash: 'sha256:7924c8b919a60d8fbccbbd4735d37678237b605faec714aec1c74dc2505d5210'}
+  - {seq: 9, filename: KR4h0005_009-CHANT.yaml, hash: 'sha256:8745f246c62396392cc439a0a9063856e1914b11eb22ceee4075f7ad584e19fb'}
+  - {seq: 10, filename: KR4h0005_010-CHANT.yaml, hash: 'sha256:4ed710ca72a73b6439ea206a4407690ff34b054e5e3327b0259d0c57d203b8c3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4h0005_001-CHANT.markers.yaml, hash: 'sha256:47cbc7dbbb2a9c112544f96e608e58f06bf61f618727eb87bd4f5f4b445791a2'}
+  - {seq: 2, role: markers, filename: assets/KR4h0005_002-CHANT.markers.yaml, hash: 'sha256:88ef49bcda970b7de7b17968bf852af1a970ef99450f871cdfba9e87d08ae7cf'}
+  - {seq: 3, role: markers, filename: assets/KR4h0005_003-CHANT.markers.yaml, hash: 'sha256:759012f7cfd6698e1465d12cbdd23ecfc768cbb2679cda4da401610034f4172a'}
+  - {seq: 4, role: markers, filename: assets/KR4h0005_004-CHANT.markers.yaml, hash: 'sha256:940b0e20ba221100969617dfe9813577e33702366d154b9a9f423a3b2c8c4121'}
+  - {seq: 5, role: markers, filename: assets/KR4h0005_005-CHANT.markers.yaml, hash: 'sha256:f849a97ddd85c75bb517643b39874a10ced20682da3543bd9b2c110c5956b53c'}
+  - {seq: 6, role: markers, filename: assets/KR4h0005_006-CHANT.markers.yaml, hash: 'sha256:49a754606bbd0ae6ff4929707ac27df469ee614bbd554b727f4d0fb8a1977dd4'}
+  - {seq: 7, role: markers, filename: assets/KR4h0005_007-CHANT.markers.yaml, hash: 'sha256:6d11aa8c2846b7b4a86a220d4534948009da3347bf8c264e9bb34bcfd553be33'}
+  - {seq: 8, role: markers, filename: assets/KR4h0005_008-CHANT.markers.yaml, hash: 'sha256:4c8573a0c372e9da626c3d59a5d1554645da227d051bd70e758d4a137b3f6c70'}
+  - {seq: 9, role: markers, filename: assets/KR4h0005_009-CHANT.markers.yaml, hash: 'sha256:7f8df867e22980cd98cd599d4ddc7ee6fe5e7763d0021f9b41e7dce122bb16a2'}
+  - {seq: 10, role: markers, filename: assets/KR4h0005_010-CHANT.markers.yaml, hash: 'sha256:4f870727e830cc7361fd176f4cf82b78d39438cb11c13446bb3c7bd2c6aa5224'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4h0005_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 5865
+  label: 卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4h0005_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 3969
+  label: 魏文帝
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4h0005_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 3601
+  label: 陸機
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4h0005_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 3958
+  label: 王僧達
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4h0005_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 4680
+  label: 江淹
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4h0005_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 3744
+  label: 吳均
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4h0005_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 5753
+  label: 梁武帝
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4h0005_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 5594
+  label: 蕭子顯
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4h0005_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 9506
+  label: 卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4h0005_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 4274
+  label: 卷第十
+  type: section
+  level: 1
+hash: sha256:053897f601ad2e6dd2a8b91c0a9bc17ba8437beffd6c439d9e8340602f4feb51
